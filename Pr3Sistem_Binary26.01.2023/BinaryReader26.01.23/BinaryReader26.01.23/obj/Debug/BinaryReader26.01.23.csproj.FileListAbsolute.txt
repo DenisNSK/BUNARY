@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\BinaryReader26.01.23\BinaryReader26.01.23\bin\Debug\BinaryReader26.01.23.exe.config
+C:\Users\Lenovo\source\repos\BinaryReader26.01.23\BinaryReader26.01.23\bin\Debug\BinaryReader26.01.23.exe
+C:\Users\Lenovo\source\repos\BinaryReader26.01.23\BinaryReader26.01.23\bin\Debug\BinaryReader26.01.23.pdb
+C:\Users\Lenovo\source\repos\BinaryReader26.01.23\BinaryReader26.01.23\obj\Debug\BinaryReader26.01.23.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BinaryReader26.01.23\BinaryReader26.01.23\obj\Debug\BinaryReader26._01._23.Form1.resources
+C:\Users\Lenovo\source\repos\BinaryReader26.01.23\BinaryReader26.01.23\obj\Debug\BinaryReader26._01._23.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\BinaryReader26.01.23\BinaryReader26.01.23\obj\Debug\BinaryReader26.01.23.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\BinaryReader26.01.23\BinaryReader26.01.23\obj\Debug\BinaryReader26.01.23.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BinaryReader26.01.23\BinaryReader26.01.23\obj\Debug\BinaryReader26.01.23.exe
+C:\Users\Lenovo\source\repos\BinaryReader26.01.23\BinaryReader26.01.23\obj\Debug\BinaryReader26.01.23.pdb
